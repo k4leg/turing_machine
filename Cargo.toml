@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2024 k4leg <pOgtq@yandex.com>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+[package]
+name = "turing_machine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.93"
+eframe = "0.29.1"
+egui_extras = "0.29.1"
+egui_plot = "0.29.0"
+fluent = "0.16.1"
+rfd = "0.15.0"
+sys-locale = "0.3.2"
+unic-langid = "0.9.5"
